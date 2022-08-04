@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+  background-color: #3B3B3B;
+  color: white;
+  padding: 10px;
+}
+
+.Center{
+  display: flex;
+  justify-content: center;
+}
+
+.FontMain{
+  font-family: 'Roboto', sans-serif;
+}
+
+.sup{
+  padding: 10px;
+}
+
+button{
+  background: #00E4FF;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 30px;
+}
